@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\ale.tiro\\source\\repos\\TodoList\\TodoList.Server\\..\\todolist.client",
+"WorkingDirectory": "/Users/taraslysenko/Work/gpt-todolist/todo-list-app-fullstack/todo-list-full-stack/TodoList.Server/../todolist.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

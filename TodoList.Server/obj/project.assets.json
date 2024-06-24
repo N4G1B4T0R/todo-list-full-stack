@@ -671,31 +671,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ale.tiro\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/taraslysenko/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ale.tiro\\source\\repos\\TodoList\\TodoList.Server\\TodoList.Server.csproj",
+      "projectUniqueName": "/Users/taraslysenko/Work/gpt-todolist/todo-list-app-fullstack/todo-list-full-stack/TodoList.Server/TodoList.Server.csproj",
       "projectName": "TodoList.Server",
-      "projectPath": "C:\\Users\\ale.tiro\\source\\repos\\TodoList\\TodoList.Server\\TodoList.Server.csproj",
-      "packagesPath": "C:\\Users\\ale.tiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ale.tiro\\source\\repos\\TodoList\\TodoList.Server\\obj\\",
+      "projectPath": "/Users/taraslysenko/Work/gpt-todolist/todo-list-app-fullstack/todo-list-full-stack/TodoList.Server/TodoList.Server.csproj",
+      "packagesPath": "/Users/taraslysenko/.nuget/packages/",
+      "outputPath": "/Users/taraslysenko/Work/gpt-todolist/todo-list-app-fullstack/todo-list-full-stack/TodoList.Server/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ale.tiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/taraslysenko/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -708,11 +701,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -751,7 +739,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,7 +5,6 @@
 /.pnp
 .pnp.js
 .idea
-./todolist.client/node_modules
 
 # testing
 /coverage
