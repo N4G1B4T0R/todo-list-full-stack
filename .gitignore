@@ -5,7 +5,9 @@
 /.pnp
 .pnp.js
 .idea
-./todolist.client/node_modules
+bin
+.vscode
+obj
 
 # testing
 /coverage
